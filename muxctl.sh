@@ -74,7 +74,7 @@ case "$1" in
                 ;;
         *)
                 s0_high; s1_high; s2_high;
-                echo "unknwon slot"
+                echo "unknown slot"
                 ;;
 esac
 
